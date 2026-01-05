@@ -24,8 +24,9 @@ const Navbar = () => {
 
     const navLinks = [
         { name: "Home", href: "/" },
-        { name: "About BCS", href: "/about" },
+        { name: "About", href: "/about" },
         { name: "Admissions", href: "/admissions" },
+        { name: "Facilities", href: "/facilities" },
         { name: "Boarding", href: "/boarding" },
         { name: "Academics", href: "/academics" },
         { name: "News", href: "/news" },

@@ -118,8 +118,8 @@ export default function Home() {
               <p className="text-gray-600 mb-6 leading-relaxed">
                 With extensive facilities for cricket, football, hockey, and swimming, we instill sportsmanship, teamwork, and resilience.
               </p>
-              <Link href="/news" className="text-bcs-gold font-bold uppercase text-xs tracking-wider flex items-center">
-                Check Sports News <ArrowRight size={14} className="ml-2" />
+              <Link href="/facilities" className="text-bcs-gold font-bold uppercase text-xs tracking-wider flex items-center">
+                View Facilities <ArrowRight size={14} className="ml-2" />
               </Link>
             </div>
 
